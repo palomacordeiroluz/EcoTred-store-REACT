@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta de Algodão Orgânico",
+      "category": "Roupas",
+      "price": 89.9,
+      "description": "Camiseta produzida com algodão orgânico.",
+      "icon": "👕"
+    },
+    {
+      "id": 2,
+      "name": "Ecobag de Algodão",
+      "category": "Acessórios",
+      "price": 39.9,
+      "description": "Ecobag reutilizável para substituir sacolas descartáveis.",
+      "icon": "👜"
+    },
+      {
+    "id": 3,
+    "name": "Shampoo Natural",
+    "category": "Beleza",
+    "price": 54.90,
+    "description": "Shampoo natural produzido com ingredientes de origem vegetal.",
+    "icon": "🧴"
+    },
+    {
+        "id": 4,
+        "name": "Sabonete Artesanal",
+        "category": "Beleza",
+        "price": 24.90,
+        "description": "Sabonete artesanal com ingredientes naturais.",
+        "icon": "🧼"
+    },
+    {
+        "id": 5,
+        "name": "Garrafa Reutilizável",
+        "category": "Casa",
+        "price": 69.90,
+        "description": "Garrafa reutilizável para reduzir o consumo de plástico.",
+        "icon": "🍶"
+    },
+    {
+        "id": 6,
+        "name": "Kit de Talheres de Bambu",
+        "category": "Casa",
+        "price": 44.90,
+        "description": "Kit portátil de talheres feitos de bambu.",
+        "icon": "🥢"
+    },
+    {
+        "id": 7,
+        "name": "Carregador Solar",
+        "category": "Tecnologia",
+        "price": 149.90,
+        "description": "Carregador portátil utilizando energia solar.",
+        "icon": "☀️"
+    },
+    {
+        "id": 8,
+        "name": "Lâmpada LED Inteligente",
+        "category": "Tecnologia",
+        "price": 79.90,
+        "description": "Lâmpada LED econômica para reduzir o consumo de energia.",
+        "icon": "💡"
+    }
+  ]
+}
