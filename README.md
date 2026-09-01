@@ -2,6 +2,9 @@
 
 E-commerce desenvolvido em React com foco na comercialização de produtos sustentáveis e ecológicos.
 
+## Link do deploy
+https://ecotrendstore.vercel.app/
+
 ## Sobre o projeto
 
 A EcoTrend é uma loja virtual voltada para consumidores que desejam adotar hábitos de consumo mais conscientes.
