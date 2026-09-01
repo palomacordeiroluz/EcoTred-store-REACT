@@ -57,7 +57,7 @@ A aplicação apresenta produtos sustentáveis divididos em diferentes categoria
 Clone o repositório:
 
 ```bash
-git clone https://github.com/AnaSBeaa/Checkpoint4-web-development
+git clone https://github.com/palomacordeiroluz/EcoTred-store-REACT.git
 ```
 
 Entre na pasta:
